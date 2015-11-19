@@ -1,0 +1,12 @@
+[user]
+        name = miyabayt
+        email =
+[merge]
+        tool = vimdiff
+        ff = false
+[diff]
+        tool = vimdiff
+[branch]
+        autosetuprebase = always
+[pull]
+        rebase = true
